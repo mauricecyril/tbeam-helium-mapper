@@ -5,6 +5,8 @@ by [Max-Plastix](https://github.com/Max-Plastix/tbeam-helium-mapper/)
 ### TL;DR
 Read through the comments in the three source files listed below.  Edit to taste, compile, and Upload to your TTGO T-Beam device.  Drive around and map the Helium network!
 
+This is a modified version that removes checks for Batteries. Allows batteryless setups for safety in extreme conditions. Mapper device will have to rely on external power (ie. vehicle power etc). 
+
 ## Purpose
 The goal of this version is to have a **TTGO T-Beam** Mapper that's ideally suited to walking or driving, taking cues from the USB Power source and movement for activity level.  
 
